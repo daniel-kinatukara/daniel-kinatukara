@@ -29,6 +29,13 @@ I'm currently strengthening my SQL, Python, Power BI, and data engineering skill
 - Consumer and Commercial Analytics
 - Data Visualization and Reporting
 
+## Featured Projects
+
+### SpendLens — AI-Powered Expense Tracker💸
+Python application for expense tracking, AI analysis, and Excel reporting.
+
+https://github.com/daniel-kinatukara/SpendLens-Project
+
 *Project repository coming soon.*
 
 ## 📈 Currently Learning
