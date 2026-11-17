@@ -40,6 +40,6 @@ I'm currently strengthening my SQL, Python, Power BI, and data engineering skill
 
 ## 🤝 Connect With Me
 
-[GitHub](https://github.com/dek2024)
+[GitHub](https://github.com/daniel-kinatukara)
 
 LinkedIn:(https://www.linkedin.com/in/daniel-kinatukara/)
