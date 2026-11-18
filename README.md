@@ -36,6 +36,14 @@ Python application for expense tracking, AI analysis, and Excel reporting.
 
 https://github.com/daniel-kinatukara/SpendLens-Project
 
+🎯 CareerLens — AI-Powered Career Assistant
+
+Developed a full-stack AI-powered career platform that helps users analyze resumes, discover relevant job opportunities, and prepare for interviews using AI-generated feedback. Built with Python, FastAPI, PostgreSQL, Docker, and OpenAI API, featuring secure user authentication, RESTful APIs, and automated CI/CD deployment.
+
+Tech Stack: Python · FastAPI · PostgreSQL · Docker · OpenAI API · GitHub Actions · DigitalOcean
+
+https://github.com/daniel-kinatukara/Career-Lens
+
 *Project repository coming soon.*
 
 ## 📈 Currently Learning
