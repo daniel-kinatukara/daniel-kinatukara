@@ -44,6 +44,14 @@ Tech Stack: Python · FastAPI · PostgreSQL · Docker · OpenAI API · GitHub Ac
 
 https://github.com/daniel-kinatukara/Career-Lens
 
+### Student Dropout & Academic Success Analysis
+
+Tableau · Data Analytics · Higher Education
+
+Analyzed 4,424 student records to investigate the relationship between first-semester grades and dropout outcomes. Developed interactive Tableau visualizations examining academic performance, zero-grade prevalence, and sensitivity to missing academic progress, providing insights relevant to student retention strategies.
+
+https://github.com/daniel-kinatukara/student-dropout-success-analysis
+
 *Project repository coming soon.*
 
 ## 📈 Currently Learning
